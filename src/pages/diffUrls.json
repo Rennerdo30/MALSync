@@ -66,6 +66,10 @@
     ]
   },
   "0.10.4": {
+    "Gogoanime": [
+      "*://*.anitaku.bz/*",
+      "*://*.gogoanime3.cc/*"
+    ],
     "Zoro": [
       "*://hianime.nz/*",
       "*://hianime.mn/*",
@@ -77,6 +81,7 @@
     "iframe": [
       "*://*.jwplayerhls.com/*",
       "*://*.videzz.net/*",
+      "*://*.s3embtaku.pro/*",
       "*://dood.li/e/*",
       "*://bethshouldercan.com/e/*"
     ]
